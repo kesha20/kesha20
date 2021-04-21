@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I am currently starting to learn Java programming and study Android engineering
+- 👋 I am currently starting to learn Java programming and study Android engineering
   
-
 <!---
 kesha20/kesha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  I ten time starting studion java end android engenering
